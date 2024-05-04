@@ -12,7 +12,7 @@ class ATM {
             menu();
         } else {
             System.out.println("Enter a valid pin");
-            menu();
+            checkpin();
         }
     }
 
