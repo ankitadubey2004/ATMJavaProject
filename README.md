@@ -30,7 +30,7 @@ This **ATM Machine Backend** is a console-based application built using **Java**
 
 ATM-Machine-Project/
 │
-├── Account.java        # Account class handling account details
-├── ATM.java            # Main class with the application logic
-├── Transaction.java    # Class to manage transaction details
-└── README.md           # Project documentation
+├── Account.java      
+├── ATM.java            
+├── Transaction.java    
+└── README.md          
